@@ -1,0 +1,21 @@
+•	Saldo total al ingresar (saldo disponible dentro de la app). 
+
+•	Historial de movimientos (todo tipo de movimientos en función del dinero en la app).
+
+•	Categorías de gastos (en que se utiliza el dinero en la app).
+
+•	Motivo de movimientos (ingresos y egresos) (si entra, sale o cambia de ubicación el dinero en la app).
+
+•	Graficas de balance (donde muestra cómo cambia la cantidad del dinero en función del tiempo y los gastos e ingresos).
+
+•	Apartado mensual, semanal y anual (una sección en donde se pueda ver los movimientos que se hayan tenido en el periodo de tiempo a elección, ya sea semanal, mensual o anual).
+
+•	Filtros de búsqueda (filtrar por movimiento, categoría y fecha) (una sección en donde se pueda filtrar dependiendo de la necesidad, ya sea movimiento, categoría o fecha).
+
+•	Confirmaciones (una serie de alertas cuando se hace cualquier tipo de movimiento en la app).
+
+•	Tipos de ahorro (ya sea en la billetera, en el colchón o en alguna cuenta bancaria).
+
+•	Páginas de inicio y login (la página principal en donde se pueda iniciar sesión y crear un usuario).
+
+•	Temas tributarios 4x1000 (opcional) (alertas en donde te avise que si haces movimientos por encima de unos topes te van a cobrar impuestos tributarios).
